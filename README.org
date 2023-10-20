@@ -1,2 +1,1 @@
-
-This is a test repo to test my emacs packages and workflow
+This is a test repo for testing my emacs workflow and packages
